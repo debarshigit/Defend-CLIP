@@ -1,6 +1,7 @@
 ## Defend-CLIP
 
 ### Setup
+#### Make sure to used CUDA version > 12.4
 ```bash
 pip install uv
 uv venv -n .venv
