@@ -13,5 +13,5 @@ uv pip install -r requirements.txt
 cd code
 python Defend_CLIP.py
 ```
-
+#### Results will be automatically stored in results.log file
 
